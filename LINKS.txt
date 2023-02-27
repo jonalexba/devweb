@@ -13,5 +13,7 @@ https://git-scm.com
 https://github.com
 https://gitlab.com
 https://bitbucket.org
+https://www.diagrams.net
+https://www.scratch.mit.edu
 
 ==>> GOOGLE <==

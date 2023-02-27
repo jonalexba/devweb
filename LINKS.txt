@@ -9,3 +9,7 @@ https://get.foundation
 https://tailwindcss.com
 https://developer.mozilla.org/es/
 https://stackblitz.com/
+https://git-scm.com
+https://github.com
+https://gitlab.com
+https://bitbucket.org

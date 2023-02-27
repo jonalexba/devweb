@@ -1,0 +1,11 @@
+https://w3schools.com
+https://caniuse.com
+https://www.favicon.cc
+https://ogp.me/ (Open Graph para previa de páginas en RRSS)
+https://developers.facebook.com/tools/debug/?locale=es_ES (para validar OGP)
+https://getbootstrap.com
+https://getbootstrap.com/docs/5.3/examples/cheatsheet/
+https://get.foundation
+https://tailwindcss.com
+https://developer.mozilla.org/es/
+https://stackblitz.com/

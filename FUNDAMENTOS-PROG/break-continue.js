@@ -8,3 +8,9 @@ for (y; y > 0; y--) {
   }
     console.log("El valor de Y es: " +y);
 }
+
+let text = "";
+for (let i = 0; i < 5; i++) {
+  if (i === 3) continue;
+  text += i + "<br>";
+}

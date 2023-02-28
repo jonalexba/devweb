@@ -1,5 +1,5 @@
 https://github.com/jonalexba/devweb
 
 git add .
-git commit -m "+mi repo"
+git commit -m "+js"
 git push

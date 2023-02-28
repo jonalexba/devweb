@@ -17,3 +17,10 @@ https://www.diagrams.net
 https://www.scratch.mit.edu
 
 ==>> GOOGLE <==
+
+https://developer.mozilla.org/es/docs/Web/JavaScript/Guide
+https://www.w3schools.com/js/js_datatypes.asp
+https://www.w3schools.com/js/default.asp
+https://developer.mozilla.org/es/docs/Web/Events
+
+Eventos: https://www.w3schools.com/jsref/dom_obj_event.asp

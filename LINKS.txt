@@ -24,3 +24,11 @@ https://www.w3schools.com/js/default.asp
 https://developer.mozilla.org/es/docs/Web/Events
 
 Eventos: https://www.w3schools.com/jsref/dom_obj_event.asp
+https://www.w3schools.com/jsref/jsref_for.asp
+DOM: https://www.w3schools.com/js/js_htmldom.asp
+JSON: https://www.w3schools.com/js/js_json_intro.asp
+FAKE APIs: https://jsonplaceholder.typicode.com/
+APIs publicas: https://ed.team/blog/las-mejores-apis-publicas-para-practicar
+Window localStorage: https://www.w3schools.com/jsref/prop_win_localstorage.asp
+HTML Geolocation API: https://www.w3schools.com/html/html5_geolocation.asp
+Aplicaciones Web Progresivas: https://developer.mozilla.org/es/docs/Web/Progressive_web_apps

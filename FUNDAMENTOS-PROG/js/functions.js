@@ -45,3 +45,7 @@ document.getElementById("botonOcultar").addEventListener('click', function() {
     document.getElementById('ocultar').style.display = 'none';
     console.log("desaparecio el texto");
 });
+
+document.getElementsByClassName('parrafo').{
+    console.log("TBD");
+};

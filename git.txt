@@ -1,5 +1,5 @@
 https://github.com/jonalexba/devweb
 
 git add .
-git commit -m "+js"
+git commit -m "Proyecto Final"
 git push

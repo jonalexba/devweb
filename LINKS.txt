@@ -32,3 +32,10 @@ APIs publicas: https://ed.team/blog/las-mejores-apis-publicas-para-practicar
 Window localStorage: https://www.w3schools.com/jsref/prop_win_localstorage.asp
 HTML Geolocation API: https://www.w3schools.com/html/html5_geolocation.asp
 Aplicaciones Web Progresivas: https://developer.mozilla.org/es/docs/Web/Progressive_web_apps
+
+PROYECTO FINAL
+https://randomuser.me/
+https://fontawesome.com/
+https://fonts.google.com/
+https://docs.github.com/es/pages/getting-started-with-github-pages/creating-a-github-pages-site
+https://docs.github.com/es/pages/quickstart
